@@ -1,5 +1,5 @@
 
-#import <React/RCTBridgeModule.h>
+#import "RCTBridgeModule.h"
 
 @interface RNKeyPair : NSObject <RCTBridgeModule>
 
